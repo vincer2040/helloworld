@@ -7,7 +7,7 @@ a hello world implementation in all the languages I can
 
 1. gcc
 2. g++
-3. gralde
+3. gradle
 4. nasm
 5. gfortran
 6. go
