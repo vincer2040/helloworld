@@ -15,6 +15,7 @@ a hello world implementation in all the languages I can
 8. node
 9. dune
 10. cargo
+11. cobc
 
 
 it is as simple as
