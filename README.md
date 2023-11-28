@@ -17,6 +17,7 @@ a hello world implementation in all the languages I can
 10. cargo
 11. cobc
 12. ghc
+13. zig
 
 
 it is as simple as
