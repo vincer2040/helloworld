@@ -9,3 +9,4 @@ all:
 	$(MAKE) -C haskell
 	$(MAKE) -C ocaml
 	$(MAKE) -C rs
+	$(MAKE) -C zig
